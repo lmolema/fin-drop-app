@@ -1,4 +1,4 @@
-app = "my-remix-app-10e3"
+app = "fin-drop-app-10e3"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
